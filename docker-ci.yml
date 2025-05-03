@@ -24,4 +24,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: yourdockerhubusername/fastapi-ci:latest
+        tags: ishaprogrammer/fastapi-ci:latest
